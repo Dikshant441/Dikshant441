@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Dikshant Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
