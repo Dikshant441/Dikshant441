@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m a Fresher **Looking for apportunity**
 
-- 🌱 I’m currently learning **React(Next.js), Typescript**
+- 🌱 I’m currently learning **Next.js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dikshant441?tab=repositories](https://github.com/Dikshant441?tab=repositories)
 
