@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m a Fresher **Looking for apportunity**
+- 🔭 I’m a Fresher **SDE (full stack developer) at Chainscore Labs**
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 Currently woking project  **TelosX Cryto exchange application, JAM(JOIN-ACCUMULATE MACHINE) solution **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dikshant441?tab=repositories](https://github.com/Dikshant441?tab=repositories)
 
-- 💬 Ask me about **React(Next.js), MERN**
+- 💬 Ask me about **Next.js, MERN, Websocket, Crypto, Blockchain**
 
 - 📫 How to reach me **singhdikshant200@gmail.com**
 
