@@ -1,39 +1,94 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DikshantSingh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+👋;I'm+Dikshant+Singh;Full-Stack+%7C+Blockchain+Developer;" />
 </h1>
 
 <div align="center">
-    <img align="center" alt="coding" width="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
 </div>
 
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack & blockchain developer from India ⚡</h3>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshant441&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant441" /> </p>
+## ✨ About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I’m **Dikshant Singh**, a curious explorer and full-stack engineer passionate about building fast, scalable, and meaningful digital experiences.
 
-- 🔭 I’m a Fresher **SDE (full stack developer) at Chainscore Labs**
+I work as a **Software Development Engineer at Chainscore Labs**, contributing to **JAM (Join-Accumulate Machine)** — Polkadot’s next-gen protocol introduced by **Gavin Wood**.  
+My work spans distributed systems, protocol engineering, validator networking (QUIC/TLS 1.3), and trustless auditing pipelines.
 
-- 🌱 Currently woking project  **TelosX Cryto exchange application, JAM(JOIN-ACCUMULATE MACHINE) solution **
+I’ve also built **20,000+ lines of production code** for **TelosX**, a Layer-1 blockchain crypto exchange, improving UI performance by **40%** and supporting **10,000+ traders**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dikshant441?tab=repositories](https://github.com/Dikshant441?tab=repositories)
+I love engineering challenges that combine:
 
-- 💬 Ask me about **Next.js, MERN, Websocket, Crypto, Blockchain**
+- ⚡ Full-stack development (Next.js, MERN, Node.js)
+- 🧩 Blockchain, Web3 & protocol design  
+- 🤖 AI/LLMs  
+- 🌐 Distributed systems  
+- 🛠 Breaking things, fixing them better, and building products that matter  
 
-- 📫 How to reach me **singhdikshant200@gmail.com**
+📬 **Let’s build something exciting —**  
+**Email:** `singhdikshant200@gmail.com`
 
-- 📄 Know about my experiences <a href="https://dikshant-portfolio-nine.vercel.app/" >Portfolio<a/>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🔭 Current Work
+- 🧩 **SDE at Chainscore Labs** — working on JAM protocol  
+- ⚒️ Building **TelosX Crypto Exchange** (Next.js + TypeScript + WebSockets)  
+- 🏗 Exploring LLMs & decentralized computation  
+
+---
+
+## 🧠 What I Know
+- **Full-Stack:** Next.js, React, MERN, Node.js, Express  
+- **Blockchain:** Polkadot JAM, Bitcoin, Ethereum, Web3, ZK basics  
+- **Systems:** QUIC, VRFs, distributed audits, erasure coding  
+- **Tools:** Docker, Git, Firebase, Prisma, WebSockets  
+- **Languages:** TypeScript, JavaScript, C++, C, Python  
+
+💬 Ask me about **Next.js, MERN, WebSockets, Crypto, Blockchain, Exchanges**
+
+---
+
+## 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/dikshant-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshant-singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dikshant-singh" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Languages & Tools
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant441&layout=compact&hide=css,scss,html&theme=tokyonight" alt="Top Languages" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Dikshant441&theme=radical" alt="GitHub Streak" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant441&layout=compact&theme=tokyonight" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Dikshant441&theme=radical" width="400"/>
 </div>
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you're working on something innovative in full-stack engineering, blockchain, Web3, exchanges, or AI —  
+**let’s connect and build something amazing together.**
+
